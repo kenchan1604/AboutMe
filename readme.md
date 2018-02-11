@@ -9,8 +9,6 @@
 ## 公司經歷 / 個人歷練
 
 ### 安順工具控股有限公司 - 兼職網頁更新員 ( 2017 / 07 - 2017 / 8 ) ( 2018 / 01 - Now )
-* 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
-* 使用第三方套件製作套用燈箱與輪播效果
 * 開發後台功能，令普通員工可以增加產品
 *  2017 年每頁利用 HTML 編寫並於 2018 年改為 PHP 編寫
 
@@ -21,7 +19,7 @@
 * 加入 PayPal 購物車功能
   
 ### 家庭之友有限公司 - 助理 ( 暑期工 ) ( 2014 / 08 - 2016 / 08 )
-* 公司新版網頁獨自開發
+* 公司網頁獨自開發
 
 ###  IMAZ Agency LTD - 銷售員及私人助理 ( 暑期工 ) (2012 / 07 - 2013 / 07 )
 * 網頁更新資料
@@ -52,10 +50,6 @@
 ## 作品集
 
 ### 工作經驗
-- RWD 作品：<a href="http://kchkd.com" target="_blank">個人網站</a><BR>
-  ⌞ 不倚賴 CSS Framework 進行 RWD <BR>
-- RWD 作品：大中華遊艇會 ( 國際 ) 有限公司 &nbsp; <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a><BR>
-  ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
 - 世紀文化有限公司 ( 香港出版社 )  &nbsp; <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
   ⌞ 加入 Google Analytics <BR>
