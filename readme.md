@@ -31,7 +31,7 @@
 * Yahoo!Blog 新浪粉絲頁 facebook專頁 管理 及 構思活動集人氣
 * Wiki更新
 
-## Skills
+## 專業技能
 
 ### 前端
 
@@ -50,26 +50,26 @@
 * Unity 製作小遊戲
 ## 作品集
 
-  ###  工作經驗
+  ### 工作經驗
 - RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a>
   ⌞ 不倚賴 CSS Framework 進行 RWD 
-- RWD作品：大中華遊艇會(國際)有限公司 <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a>
+- RWD作品：大中華遊艇會(國際)有限公司<a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化
-- 世紀文化有限公司(香港出版社) <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a>
+- 世紀文化有限公司(香港出版社)<a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果
   ⌞ 加入google analytics
   ⌞ 加入paypal購物車功能
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化
-- ansontools(香港五金貿易公司)製作中 <a href="http://kchkd.com/anson/php" target="_blank">公司網站</a>
+- ansontools(香港五金貿易公司)製作中<a href="http://kchkd.com/anson/php" target="_blank">公司網站</a>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果
   ⌞ 開發後台功能,令普通員工可以增加產品
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化
   
-  ###  現場觀光互動網頁
-- 憲光二村開啟憲光潘朵拉的盒子  <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a>
+  ### 現場觀光互動網頁
+- 憲光二村開啟憲光潘朵拉的盒子<a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a>
   ⌞ 結合 QR code 和 Javascript 製作互動遊戲
   
-- 憲光二村開啟憲光潘朵拉的盒子-迎春版 <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a>
+- 憲光二村開啟憲光潘朵拉的盒子-迎春版<a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a>
   ⌞ 增加接近答案提示
   ⌞ 使用者介面改良
   ⌞ 一頁式顯示及増加答案顯示功能
