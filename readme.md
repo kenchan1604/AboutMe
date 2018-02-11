@@ -50,6 +50,7 @@
 * Unity 製作小遊戲
 ## Works
 
+  ###工作經驗
 - RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a>
   * 不倚賴 CSS Framework 進行 RWD 
 - RWD作品：大中華遊艇會(國際)有限公司 <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a>
@@ -64,7 +65,7 @@
   * 開發後台功能,令普通員工可以增加產品
   * 不倚賴 CSS Framework 進行 RWD 客製化
   
-  現場觀光互動網頁
+  ###現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子  <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a>
   * 結合 QR code 和 Javascript 製作互動遊戲
   
