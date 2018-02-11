@@ -1,6 +1,6 @@
-# 陳章瑋 (CHAN-CHEUNG WAI)
+# 陳章瑋 ( CHAN-CHEUNG WAI )
 
-* 姓名: 陳章瑋(Chan Cheung Wai, Ken)
+* 姓名: 陳章瑋( Chan Cheung Wai , Ken )
 * 希望求職地點: 台灣/香港
 * 科系: 銘傳大學 數位媒體設計系 碩士
 * 個人網站: http://kchkd.com
@@ -12,23 +12,23 @@
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
 * 使用第三方套件製作套用燈箱與輪播效果
 * 開發後台功能,令普通員工可以增加產品
-* 2017年每頁利用Html編寫並於2018年改為PHP編寫
+* 2017年每頁利用 Html 編寫並於2018年改為 PHP 編寫
 
 ### 世紀文化有限公司 - 暑期工 (2017/01 - 2017/02)
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
 * 使用第三方套件製作套用燈箱與輪播效果
-* 加入google analytics 分析顧客習慣
-* 加入paypal購物車功能
+* 加入 Google analytics 分析顧客習慣
+* 加入 PayPal 購物車功能
   
 ### 家庭之友有限公司 - 助理(暑期工) (2014/08 - 2016/08)
 * 公司新版網頁獨自開發
 
 ###  IMAZ Agency Ltd - 銷售員及私人助理(暑期工) (2012/07 - 2013/07)
 * 網頁更新資料
-* 網頁搜尋優化(seo)
-  3個月後google搜尋條資從5990項増至39,800項
+* 搜尋引擎最佳化 SEO
+  3個月後 Google 搜尋條資從5990項増至39,800項
   關鍵字都提升至第三名
-* Yahoo!Blog 新浪粉絲頁 facebook專頁 管理 及 構思活動集人氣
+* Yahoo!Blog 新浪粉絲頁 Facebook 專頁 管理 及 構思活動集人氣
 * Wiki更新
 
 ## 專業技能
@@ -38,7 +38,7 @@
 * 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 了解 Javascript 基本語法,並使用 jQuery / CSS3 呈現網頁動態效果。
 * 利用 AJAX 撈取遠端JSON資料並顯示在網頁上,AJAX 資料 POST、GET 用法
-* 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
+* 介接第三方 API 設計 SPA 頁面 ( Google Map、Open Data 等等)
 
 ### 後端
 * 利用PHP編寫前後台網功能。
@@ -59,10 +59,10 @@
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
 - 世紀文化有限公司(香港出版社)<a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
-  ⌞ 加入google analytics<BR>
-  ⌞ 加入paypal購物車功能<BR>
+  ⌞ 加入 Google analytics <BR>
+  ⌞ 加入 PayPal 購物車功能<BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
-- ansontools(香港五金貿易公司)製作中<a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
+- Ansontools (香港五金貿易公司) 製作中<a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
   ⌞ 開發後台功能,令普通員工可以增加產品<BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
