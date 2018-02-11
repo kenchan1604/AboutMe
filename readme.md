@@ -1,6 +1,6 @@
 # 陳章瑋 ( CHAN-CHEUNG WAI )
 
-* 姓名： 陳章瑋( Chan Cheung Wai Ken )
+* 姓名： 陳章瑋 ( Chan Cheung Wai Ken )
 * 希望求職地點： 台灣 / 香港
 * 科系： 銘傳大學 數位媒體設計系 碩士
 * 個人網站： http://kchkd.com
