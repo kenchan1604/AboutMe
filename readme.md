@@ -46,7 +46,7 @@
 ### 其他:
 * Photoshop、Illustrator 基本工具操作
 * Adobe After Effect 影片基本處理(剪接,打字幕)
-* Flash Adobe ActionScript ,會製作Flash小遊戲
+* Flash Adobe ActionScript ,會製作 Flash 小遊戲
 * Unity 製作小遊戲
 
 ## 作品集
