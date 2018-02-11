@@ -48,6 +48,7 @@
 * Adobe After Effect 影片基本處理(剪接,打字幕)
 * Flash Adobe ActionScript ,會製作Flash小遊戲
 * Unity 製作小遊戲
+* 急救證書/汽車駕照
 
 ## 作品集
 
