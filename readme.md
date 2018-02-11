@@ -12,7 +12,7 @@
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
 * 使用第三方套件製作套用燈箱與輪播效果
 * 開發後台功能,令普通員工可以增加產品
-* *2017年每頁利用Html編寫並於2018年改為PHP編寫
+* 2017年每頁利用Html編寫並於2018年改為PHP編寫
 
 ### 世紀文化有限公司 - 暑期工 (2017/01 - 2017/02)
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
@@ -48,9 +48,10 @@
 * Adobe After Effect 影片基本處理(剪接,打字幕)
 * Flash Adobe ActionScript ,會製作Flash小遊戲
 * Unity 製作小遊戲
+
 ## 作品集
 
-  ### 工作經驗
+### 工作經驗
 - RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a>
   ⌞ 不倚賴 CSS Framework 進行 RWD 
 - RWD作品：大中華遊艇會(國際)有限公司<a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a>
@@ -65,7 +66,7 @@
   ⌞ 開發後台功能,令普通員工可以增加產品
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化
   
-  ### 現場觀光互動網頁
+### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子<a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a>
   ⌞ 結合 QR code 和 Javascript 製作互動遊戲
   
