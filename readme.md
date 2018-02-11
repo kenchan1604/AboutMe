@@ -52,7 +52,7 @@
   
 ### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
-  ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁
+  ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
   ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
   ⌞ 課堂活動高中生試玩後大受好評有助認識憲光二村，老師也認為這種參加方法十分有趣創新。
@@ -69,7 +69,7 @@
   
 - HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank">小遊戲</a><BR>
   ⌞ JavaScript 編寫 小遊戲<BR>
-  
+
 - 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank"> 夢蝶 The Dream </a><BR>
   ⌞ 利用 Unity 製作 多媒體互動動畫<BR>
   ⌞ 不同的選擇，結局會因此不同<BR>
