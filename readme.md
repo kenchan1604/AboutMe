@@ -8,14 +8,15 @@
 * 手機： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## 公司經歷 / 個人歷練
 
-### 安順工具控股有限公司 - 兼職網頁更新員 ( 2017 / 07 - 2017 / 8 ) ( 2018 / 01 - Now )
-* 開發後台功能，令普通員工可以增加產品
-*  2017 年每頁利用 HTML 編寫並於 2018 年改為 PHP 編寫
+### 安順工具控股有限公司 - 兼職網頁更新員 ( 暑期工 ) ( 2017 / 07 - 2018 / 01 - Now ) <a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
+* 開發後台功能，令普通員工可以增改產品
+*  *2017 年每頁利用 HTML 編寫並於 2018 年改為 PHP 編寫
 
-### 世紀文化有限公司 - 暑期工 ( 2017 / 01 - 2017 / 02 )
+### 世紀文化有限公司 - 暑期工 ( 2017 / 01 - 2017 / 02 ) <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a>
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
 * 使用第三方套件製作套用燈箱與輪播效果
 * 加入 Google Analytics 分析顧客習慣
+* 加入 Google Map
 * 加入 PayPal 購物車功能
   
 ### 家庭之友有限公司 - 助理 ( 暑期工 ) ( 2014 / 08 - 2016 / 08 )
@@ -48,22 +49,12 @@
 * Unity 製作小遊戲
 
 ## 作品集
-
-### 工作經驗
-- 世紀文化有限公司 ( 香港出版社 )  &nbsp; <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
-  ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
-  ⌞ 加入 Google Analytics <BR>
-  ⌞ 加入 PayPal 購物車功能<BR>
-  ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
-- Ansontools ( 香港五金貿易公司 ) 製作中 &nbsp; <a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
-  ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
-  ⌞ 開發後台功能，令普通員工可以增加產品<BR>
-  ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
   
 ### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
+  ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
-  ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村
+  ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
   
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 增加接近答案提示<BR>
