@@ -35,9 +35,9 @@
 
 ### 前端
 
-* 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+* 熟悉 HTML5 + CSS 完成 RWD 頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 了解 Javascript 基本語法,並使用 jQuery / CSS3 呈現網頁動態效果。
-* 利用 AJAX 撈取遠端JSON資料並顯示在網頁上,AJAX 資料 POST、GET 用法
+* 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上,AJAX 資料 POST、GET 用法
 * 介接第三方 API 設計 SPA 頁面 ( Google Map、Open Data 等等)
 
 ### 後端
