@@ -63,6 +63,7 @@
 ### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
+  ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村
   
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 增加接近答案提示<BR>
