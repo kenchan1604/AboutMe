@@ -1,28 +1,38 @@
-# AboutMe
-1.熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
-2.了解 Javascript 基本語法,並使用 Jquery / CSS3 呈現網頁動態效果。
-3.到用PHP編寫前後台網功能。
-4.利用 AJAX 撈取遠端JSON資料並顯示在網頁上,AJAX 資料 POST、GET 用法
-5.介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
+# 陳章瑋 (CHAN-CHEUNG WAI)
 
-能力
-Photoshop、Illustrator 、After Effects 基本工具操作
-Flash as3.0 ,會製作Flash小遊戲
-Unity 製作小遊戲
-影片基本處理(剪接,打字幕)
+* 姓名: 陳章瑋(Chan Cheung Wai, Ken)
+* 科系: 銘傳大學 數位媒體設計系 碩士
+* 個人網站: http://kchkd.com
+* 電郵地址: kchkd@hotmail.com
 
-工作經驗
-獨立製作三次商業網頁(全手刻)
-1.大中華遊艇會(國際)有限公司 http://www.gcyclub.com/index.html
-2.世紀文化有限公司(香港出版社)http://www.whitecatblackcat.org/
-3.ansontools(香港五金貿易公司)製作中 http://kchkd.com/anson/php
-網頁小遊戲
-1.憲光二村開啟憲光潘朵拉的盒子 http://kchkd.com/s2/game/
-2.憲光二村開啟憲光潘朵拉的盒子-迎春版http://kchkd.com/s2/game2/
-其他
-基本文書處理,Word,PowerPoint,Excel
-急救證書
-汽車駕照
-Discuz!設定
+## 公司經歷 / 個人歷練
+
+### 
+
+## Skills
+
+### HTML/CSS/RWD/Bootstrap/JavaScript(ES6)/jQuery/AJAX
+
+* 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+* 了解 Javascript 基本語法,並使用 jQuery / CSS3 呈現網頁動態效果。
+* 到用PHP編寫前後台網功能。
+* 利用 AJAX 撈取遠端JSON資料並顯示在網頁上,AJAX 資料 POST、GET 用法
+* 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
+
+### Other:
+
+
+## Works
+
+- RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a>
+
+## 自我介紹
+
+* 本人在中學時期熱愛參興義務工作服務社會,如每次的賣旗和賣獎卷的成績都不俗,都能得到師長的讚許。也多次為長者服務,如探訪老人院為他們作表演。曾擔當健康互聯網大使為不懂電腦的家長和長者上課。我對網頁多媒體深感興趣,透過自學並開設個人網站(驚青論壇),我與多間香港遊戲公司(摩卡、Csoft、遊戲新幹線、科瀚國際網絡遊戲)合作經驗,所以大家可以在一些大型的遊戲公司內搜找得到驚青論壇。我在多媒體的能力深受老師和同學的肯定和信任,在中學謝師宴獨力負責製作回顧影片(<a href="https://www.youtube.com/watch?v=s2vmSVf-qKo" target="_blank">)。我在大學期間曾為一間出版社和一間公司製作網站,在2016年畢業於台灣銘傳大學數位媒體設計學系,畢業作品名為「夢蝶 The Dream」-是互動式動畫,每個人有不同的選擇，結局會因此不同,每個人都有徘徊、猶豫、看不清現實的時候，我們創造了夢蝶這個故事，藉由夢境與現實的交錯，讓觀眾選擇自己想要的故事走向和結局 (<a href="https://www.youtube.com/watch?v=_2Ul-t7tng4" target="_blank">)) 。現時本人所製作的網站(html5)完全支援手機平板電腦，深具網頁和多媒體方面的知識。
+我深信「人而無信，不知其可也」所以在日常生活中，不管對誰我都秉持著「遵守約定」及「不遲到」的原則，也因此贏得許多朋友的信賴。因為我明白人與人之間的信賴感是需要花時間構築的，而失去只是一瞬間的事。對於工作方面，我認為凡事全力以赴、樂於成就他人，必能得到別人的信任。
+
+
+
+
 
 
