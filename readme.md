@@ -52,9 +52,9 @@
 ## 作品集
 
 ### 工作經驗
-- RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a><BR>
+- RWD 作品：<a href="http://kchkd.com" target="_blank">個人網站</a><BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD <BR>
-- RWD作品：大中華遊艇會 ( 國際 ) 有限公司 &nbsp; <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a><BR>
+- RWD 作品：大中華遊艇會 ( 國際 ) 有限公司 &nbsp; <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a><BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
 - 世紀文化有限公司 ( 香港出版社 )  &nbsp; <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
