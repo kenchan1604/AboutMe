@@ -55,40 +55,40 @@
 ### 工作經驗
 - RWD作品：<a href="http://kchkd.com" target="_blank">個人網站</a><BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD <BR>
-- RWD作品：大中華遊艇會(國際)有限公司<a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a><BR>
+- RWD作品：大中華遊艇會(國際)有限公司 &nbsp; <a href="http://www.gcyclub.com/index.html" target="_blank">公司網站</a><BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
-- 世紀文化有限公司(香港出版社)<a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
+- 世紀文化有限公司(香港出版社) &nbsp; <a href="http://www.whitecatblackcat.org" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
   ⌞ 加入 Google analytics <BR>
   ⌞ 加入 PayPal 購物車功能<BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
-- Ansontools (香港五金貿易公司) 製作中<a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
+- Ansontools (香港五金貿易公司) 製作中 &nbsp; <a href="http://kchkd.com/anson/php" target="_blank">公司網站</a><BR>
   ⌞ 使用第三方套件製作套用燈箱與輪播效果<BR>
   ⌞ 開發後台功能,令普通員工可以增加產品<BR>
   ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
   
 ### 現場觀光互動網頁
-- 憲光二村開啟憲光潘朵拉的盒子<a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
+- 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
   ⌞ 結合 QR code 和 Javascript 製作互動遊戲<BR>
   
-- 憲光二村開啟憲光潘朵拉的盒子-迎春版<a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
+- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 增加接近答案提示<BR>
   ⌞ 使用者介面改良<BR>
   ⌞ 一頁式顯示及増加答案顯示功能<BR>
   ⌞ 縮減整體檔案大小至40%; 96.9MB ->33.0MB<BR>
   
 ### 在學作品
-- 憲光二村介紹<a href="http://kchkd.com/sianguang2ndvillage" target="_blank">個人作品</a><BR>
+- 憲光二村介紹 &nbsp; <a href="http://kchkd.com/sianguang2ndvillage" target="_blank">個人作品</a><BR>
   ⌞ RWD 練習<BR>
   
-- HTML5 打磚塊<a href="http://kchkd.com/html5game" target="_blank"></a>小遊戲<BR>
+- HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank"></a>小遊戲<BR>
   ⌞ Javascript 編寫 小遊戲<BR>
   
-- 畢業作品 <a href="http://kchkd.com/TheDream" target="_blank"></a>夢蝶 The Dream<BR>
+- 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank"></a>夢蝶 The Dream<BR>
   ⌞ 利用 Unity 製作 多媒體互動動畫<BR>
   ⌞ 不同的選擇，結局會因此不同<BR>
   
-- 聊天室 <a href="http://kchkd.com/chatroom" target="_blank">聊天室</a><BR>
+- 聊天室 &nbsp; <a href="http://kchkd.com/chatroom" target="_blank">聊天室</a><BR>
   ⌞ 利用 PHP 製作聊天室<BR>
   ⌞ 擁有加入離開提示,超過20筆會自動轉成txt,自動刪除資料庫數據
   
