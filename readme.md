@@ -80,10 +80,10 @@
 - 憲光二村介紹 &nbsp; <a href="http://kchkd.com/sianguang2ndvillage" target="_blank">個人作品</a><BR>
   ⌞ RWD 練習<BR>
   
-- HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank"></a>小遊戲<BR>
+- HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank">小遊戲</a><BR>
   ⌞ JavaScript 編寫 小遊戲<BR>
   
-- 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank"></a>夢蝶 The Dream<BR>
+- 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank">夢蝶 The Dream</a><BR>
   ⌞ 利用 Unity 製作 多媒體互動動畫<BR>
   ⌞ 不同的選擇，結局會因此不同<BR>
   
