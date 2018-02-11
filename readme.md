@@ -2,17 +2,21 @@
 
 * 姓名: 陳章瑋(Chan Cheung Wai, Ken)
 * 科系: 銘傳大學 數位媒體設計系 碩士
+* 地點: 台灣
 * 個人網站: http://kchkd.com
 * 電郵地址: kchkd@hotmail.com
 
 ## 公司經歷 / 個人歷練
 
 ### 安順工具控股有限公司 - 兼職網頁更新員 (2017/07 -2017/8)(2018/01 - now)
-* 獨自開發公司新版網頁，並支援RWD
+* 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
+* 使用第三方套件製作套用燈箱與輪播效果
 * 開發後台功能,令普通員工可以增加產品
 * *2017年每頁利用Html編寫並於2018年改為PHP編寫
+
 ### 世紀文化有限公司 - 暑期工 (2017/01 - 2017/02)
-* 獨自開發公司新版網頁，並支援RWD
+* 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
+* 使用第三方套件製作套用燈箱與輪播效果
 * 加入google analytics 分析顧客習慣
 * 加入paypal購物車功能
   
@@ -29,16 +33,18 @@
 
 ## Skills
 
-### HTML/CSS/RWD/Bootstrap/JavaScript(ES6)/jQuery/AJAX
+### 前端
 
 * 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 了解 Javascript 基本語法,並使用 jQuery / CSS3 呈現網頁動態效果。
-* 到用PHP編寫前後台網功能。
 * 利用 AJAX 撈取遠端JSON資料並顯示在網頁上,AJAX 資料 POST、GET 用法
 * 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
 
-### Other:
+### 後端
+* 利用PHP編寫前後台網功能。
 
+### 其他:
+* Photoshop、Illustrator 基本工具操作
 
 ## Works
 
