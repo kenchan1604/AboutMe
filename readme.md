@@ -45,7 +45,9 @@
 * 利用 PHP 編寫前後台網功能
 
 ### 其他：
-* 版本控制:本地端版本控制-(複製檔案到其它目錄的方式來做版本控制) 分散式版本控制系統- Git 正在學習
+* 版本控制:<br>
+  本地端版本控制-( 複製檔案到其它目錄的方式來做版本控制 ) <br>
+  分散式版本控制系統- Git 正在學習 <br>
 * Photoshop、Illustrator 基本工具操作
 * Adobe After Effect 影片基本處理 ( 剪接，打字幕 ) 
 * Flash Adobe ActionScript，會製作 Flash 遊戲 / 廣告 / 網頁
