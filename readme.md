@@ -36,7 +36,7 @@
 
 ### 前端：
 * 熟悉 HTML5 + CSS 完成 RWD 頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
-* 了解 Javascript 基本語法，並使用 jQuery / CSS3 呈現網頁動態效果
+* Javascript 基本語法，並使用 jQuery / CSS3 呈現網頁動態效果
 * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
 * 介接第三方 API 設計 ( Google Map、Open Data 、 Facebook API 等等 ) 
 
@@ -56,8 +56,8 @@
 
 ### 個人練習
 - 六角學院 BMI  <a href="http://kchkd.com/bmi/" target="_blank">BMI網頁</a><BR>
-  ⌞ 採用localStorage 儲存查詢歷史資料。<BR>
-  ⌞ 根據BMI結果會有不同顏色<br>
+  ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
+  ⌞ 根據 BMI 結果會有不同顏色<br>
   ⌞ 檢查使用者是否正確輸入資料<br>
   
 ### 現場觀光互動網頁
@@ -78,7 +78,7 @@
   ⌞ RWD 練習<BR>
   
 - HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank">小遊戲</a><BR>
-  ⌞ JavaScript 編寫 小遊戲<BR>
+  ⌞ JavaScript 編寫 遊戲<BR>
 
 - 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank"> 夢蝶 The Dream </a><BR>
   ⌞ 利用 Unity 製作 多媒體互動動畫<BR>
