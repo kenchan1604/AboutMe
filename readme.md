@@ -46,10 +46,10 @@
 ### 其他：
 * 版本控制:<br>
   本地端版本控制-( 複製檔案到其它目錄的方式來做版本控制 ) <br>
-  分散式版本控制系統- Git 正在學習 <br>
+  分散式版本控制系統- Git <br>
 * Photoshop、Illustrator 基本工具操作
-* Adobe After Effect 影片基本處理 ( 剪接，打字幕 ) 
-* Flash Adobe ActionScript，會製作 Flash 遊戲 / 廣告 / 網頁
+* Adobe After Effect 影片基本處理
+* Flash Adobe ActionScript，會製作 Flash 遊戲 / 廣告 / 網頁 
 * Unity 製作遊戲 ( 射擊、反應 )
 
 ## 作品集
@@ -65,7 +65,7 @@
   ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
   ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
-  ⌞ 課堂活動高中生試玩後大受好評有助認識憲光二村，老師也認為這種參加方法十分有趣創新。
+  ⌞ 課堂活動高中生試玩後大受好評有助認識憲光二村，老師也認為這種參加方法十分有趣創新。<br>
   
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 增加接近答案提示<BR>
