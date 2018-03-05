@@ -56,8 +56,9 @@
 
 ### 個人練習
 - 六角學院 BMI  <a href="http://kchkd.com/bmi/" target="_blank">BMI網頁</a><BR>
-  ⌞ 採用localStorage - 瀏覽器資料儲存<BR>
+  ⌞ 採用localStorage 儲存查詢歷史資料。<BR>
   ⌞ 根據BMI結果會有不同顏色
+  ⌞ 檢查使用者是否正確輸入資料
   
 ### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
