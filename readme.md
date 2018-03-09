@@ -36,7 +36,7 @@
 
 ### 前端：
 * 熟悉 HTML5 + CSS 完成 RWD 頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
-* Javascript 基本語法，不論是在函式設計、事件監聽指令、資料驗證、 DOM 元素、版型調整都有到不錯的水準，並能使用 jQuery / CSS3 呈現網頁動態效果
+* Javascript 基本語法，不論是在函式設計 、 事件監聽指令、 文字提示 、 資料驗證 、 API 操作 、 DOM 元素 、 版型調整都有到不錯的水準，並能使用 jQuery / CSS3 呈現網頁動態效果
 * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
 * 介接第三方 API 設計 ( Google Map、Open Data 、 Facebook API 等等 ) 
 
