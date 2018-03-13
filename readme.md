@@ -58,7 +58,7 @@
 ## 作品集
 
 ### 個人練習
-- 六角學院 BMI  <a href="http://kchkd.com/bmi/" target="_blank">BMI網頁</a><BR>
+- 六角學院 BMI  <a href="http://kchkd.com/bmi/2.0" target="_blank">BMI網頁</a><BR>
   ⌞ 輸入身高及體重後，顯示BMI數值及健康狀況（過輕、理想、過重、輕度肥胖、中度肥胖、過度肥胖）<BR>
   ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
   ⌞ 根據 BMI 結果會有不同顏色<br>
