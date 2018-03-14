@@ -42,7 +42,7 @@
 * Javascript 基本語法，不論是在函式設計 、 事件監聽指令、 文字提示 、 資料驗證 、 API 操作 、 DOM 元素 、 版型調整都有到不錯的水準，並能使用 jQuery / CSS3 呈現網頁動態效果
 * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
 * 介接第三方 API 設計 ( Google Map、Open Data 、 Facebook API 等等 ) 
-
+* 會使用CSS Sprites 及 js css Minifier 加快網頁讀取速度
 ### 後端：
 * 利用 PHP 編寫前後台網功能
 
