@@ -64,7 +64,10 @@
   ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
   ⌞ 根據 BMI 結果會有不同顏色<br>
   ⌞ 檢查使用者是否正確輸入資料<br>
-  
+- 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
+  ⌞ 
+  ⌞ 
+  
 ### 現場觀光互動網頁
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
   ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
