@@ -16,6 +16,7 @@
 * 建立網站資料庫( SQL )
 * 製作檔案上傳頁面
 *  *2017 年每頁利用 HTML 編寫並於 2018 年改為 PHP 編寫
+  <a href="http://kchkd.com/anson/php" target="_blank">網站</a>
 
 ### 世紀文化有限公司 - 暑期工 ( 2017 / 01 - 2017 / 02 )
 * 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
