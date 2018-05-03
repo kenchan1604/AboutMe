@@ -67,7 +67,7 @@
 - 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
   ⌞ AJAX 高雄市政府資料開放 網頁資料
   
-### 現場觀光互動網頁
+### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
   ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
