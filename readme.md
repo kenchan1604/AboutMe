@@ -12,8 +12,15 @@
 * 輔助前端工程師工作
 * WIPER FINDER ,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a><br>
   首頁產品選項製作切板及功能(含js)<br>
-  當中栛助整理過約一萬五筆的資料<br>
+  當中栛助整理過一萬五筆的資料<br>
   SEARCH >>>> css 動畫<br>
+* Doll House168 ,<a href="http://www.isex.tw/product_in.php?id=91/ " target="_blank">網站演示</a><br>
+  增加評分系統和問問題系統(含後台功能)<br>
+  檢査是否會員才能發問及評分,帳號保留第一個字其他字換星星<br>
+  檢査是否會員才能發問及評分<br>
+  問與答後台管理員回覆問題後發送E-mail通知會員<br>
+  評分後台管理員可快速審核評分<br>
+  
 
 ### 安順工具控股有限公司 (香港) - 兼職網頁更新員 ( 暑期工 ) ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">網站演示</a>
 * 開發網站管理員後台(新增、修改、刪除產品資料)，令普通員工修改
