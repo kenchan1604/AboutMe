@@ -10,7 +10,7 @@
 
 ### 森德網站設計有限公司 網站程式前端設計師 ( 實習生 ) ( 2018 / 03 - 現在 ) 
 * 輔助前端工程師工作
-* WIPER FINDER ,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a>
+* WIPER FINDER ,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a><br>
   首頁產品選項製作切板及功能(含js)<br>
   當中栛助整理過約一萬五筆的資料<br>
   SEARCH >>>> css 動畫<br>
