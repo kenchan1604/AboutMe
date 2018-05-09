@@ -67,28 +67,20 @@
 * Unity 製作遊戲 ( 射擊、反應 )
 
 ## 作品集
-
-### 個人練習
-- 六角學院 BMI  <a href="http://kchkd.com/bmi/2.0" target="_blank">BMI網頁</a><BR>
-  ⌞ 輸入身高及體重後，顯示BMI數值及健康狀況（過輕、理想、過重、輕度肥胖、中度肥胖、過度肥胖）<BR>
-  ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
-  ⌞ 根據 BMI 結果會有不同顏色<br>
-  ⌞ 檢查使用者是否正確輸入資料<br>
-- 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
-  ⌞ AJAX 高雄市政府資料開放 網頁資料
   
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
+- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
+  ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。
+  ⌞ 增加接近答案提示<BR>
+  ⌞ 使用者介面改良<BR>
+  ⌞ 一頁式顯示及増加答案顯示功能<BR>
+  ⌞ 縮減整體檔案大小至 40 % ：96.9 MB -> 33.0 MB <BR>
+ 
 - 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
   ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
   ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
   ⌞ 課堂活動高中生試玩後大受好評有助認識憲光二村，老師也認為這種參加方法十分有趣創新。<br>
-  
-- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
-  ⌞ 增加接近答案提示<BR>
-  ⌞ 使用者介面改良<BR>
-  ⌞ 一頁式顯示及増加答案顯示功能<BR>
-  ⌞ 縮減整體檔案大小至 40 % ：96.9 MB -> 33.0 MB <BR>
   
 ### 在學作品
 - 憲光二村介紹 &nbsp; <a href="http://kchkd.com/sianguang2ndvillage" target="_blank">個人作品</a><BR>
@@ -104,6 +96,15 @@
 - 聊天室 &nbsp; <a href="http://kchkd.com/chatroom" target="_blank">聊天室</a><BR>
   ⌞ 利用 PHP 製作聊天室<BR>
   ⌞ 擁有加入離開提示，超過 20 筆會自動轉成 .txt 檔案，自動刪除資料庫數據
+  
+### 個人練習
+- 六角學院 BMI  <a href="http://kchkd.com/bmi/2.0" target="_blank">BMI網頁</a><BR>
+  ⌞ 輸入身高及體重後，顯示BMI數值及健康狀況（過輕、理想、過重、輕度肥胖、中度肥胖、過度肥胖）<BR>
+  ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
+  ⌞ 根據 BMI 結果會有不同顏色<br>
+  ⌞ 檢查使用者是否正確輸入資料<br>
+- 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
+  ⌞ AJAX 高雄市政府資料開放 網頁資料
   
 ## 自我介紹
 * 本人在中學時期熱愛參興義務工作服務社會，如每次的賣旗和賣獎卷的成績都不俗，都能得到師長的讚許。也多次為長者服務，如探訪老人院為他們作表演。曾擔當健康互聯網大使為不懂電腦的家長和長者上課。我對網頁多媒體深感興趣，透過自學並開設個人網站 ( 驚青論壇 ) ，我與多間香港遊戲公司 ( 摩卡、 Csoft 、遊戲新幹線、科瀚國際網絡遊戲 ) 合作經驗，所以大家可以在一些大型的遊戲公司內搜找得到驚青論壇。<BR>
