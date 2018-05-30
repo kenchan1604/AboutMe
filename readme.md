@@ -9,17 +9,17 @@
 ## 公司經歷 / 個人歷練
 ### 森德網站設計有限公司 網站程式前端設計師 ( 實習生 ) ( 2018 / 03 - 現在 ) 
 * 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
-* 公司聯絡表單(獨立完成) ,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">網站演示</a><br>
+* 公司聯絡表單,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">網站演示</a><br>
   檢查使用者是否輸入資料及 E-mail 格式是否正確<br>
   加入 reCAPTCHA v2 驗証,防止網路機器人或是自動化程式濫用<br>
   表單以 Json 格式 Ajax POST 傳送資料到後端,<br>
   顧客發送後,先儲存到資料庫後再發送 E-mail 通知單<br>
-* Doll House168 評分系統和問問題系統 (獨立完成) ,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">網站演示</a><br>
+* Doll House168 評分系統和問問題系統,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">網站演示</a><br>
   增加評分系統和問問題系統(含後台功能)<br>
   檢査是否會員才能發問及評分,帳號保留第一個字其他字換星星<br>
   問與答後台管理員回覆問題後發送E-mail通知會員附上回答及連結<br>
   評分後台管理員可快速審核評分<br>
-* WIPER FINDER 頁產品選項(獨立完成) ,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a><br>
+* WIPER FINDER 頁產品選項,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a><br>
   首頁產品選項製作切板及功能(含js)<br>
   當中栛助整理過一萬五筆的資料<br>
   SEARCH >>>> css 動畫<br>
