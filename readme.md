@@ -72,6 +72,15 @@
 
 ## 作品集
   
+### The F2E - 前端修練精神時光屋 <a href="https://github.com/hexschool/TheF2E" target="_blank">瀏覽網頁</a>
+- 前端修練精神時光屋功能頁 <a href="http://www.kchkd.com/hexschool/index.php/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第一週 - todolist】<a href="http://www.kchkd.com/hexschool/no1.todolist/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第二週 - filter】  <a href="http://www.kchkd.com/hexschool/no2.filter/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第三週 - admin order】<a href="http://www.kchkd.com/hexschool/no3.adminorder/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第四週 - Product Gallery】<a href="http://www.kchkd.com/hexschool/no4.product-gallery/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第五週 - Comic Viewer】<a href="http://www.kchkd.com/hexschool/no5.comic-viewer/" target="_blank">瀏覽網頁</a>
+  ⌞ 【第六週 - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">瀏覽網頁</a>
+  
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。
