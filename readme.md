@@ -57,7 +57,8 @@
 * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
 * 介接第三方 API 設計 ( Google Map、Open Data 、 Facebook API 等等 ) 
 * 會使用CSS Sprites 減少載入圖片載入次數 及 外部載入 js css Minifier 加快網頁讀取速度
-* 對於 AngularJS , Vue.js 有基本認知
+* 對於JavaScript框架 AngularJS , Vue.js 有基本認知
+* 對於 SASS、SCSS 有基本認知
 ### 後端：
 * 利用 PHP 編寫前後台網功能
 * MYSQL
