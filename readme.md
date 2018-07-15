@@ -83,6 +83,10 @@
   ⌞ 【第六週 - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">瀏覽網頁</a><BR>
   
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
+- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">觀光網頁</a><BR>
+  ⌞ 增加管理後台,方便工作人員增加新遊戲及關卡<BR>
+  ⌞ 增加查看通關密碼指令(可修改)<BR>
+ 
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。
   ⌞ 增加接近答案提示<BR>
