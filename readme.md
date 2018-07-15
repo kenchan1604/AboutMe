@@ -86,7 +86,7 @@
 - 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">觀光網頁</a><BR>
   ⌞ 增加管理後台,方便工作人員增加新遊戲及關卡<BR>
   ⌞ 增加查看通關密碼指令(可修改)<BR>
-  ⌞ 縮減整體檔案大小(不含圖片)至 31 % ：100 KB  -> 79.1 KB <BR>
+  ⌞ SQL 資料以 JSON 格式輸出,前台以 AJAX 讀取資料<BR>
  
 - 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
   ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。<BR>
