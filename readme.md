@@ -81,7 +81,7 @@
   ⌞ 【第四週 - Product Gallery】<a href="http://www.kchkd.com/hexschool/no4.product-gallery/" target="_blank">瀏覽網頁</a><BR>
   ⌞ 【第五週 - Comic Viewer】<a href="http://www.kchkd.com/hexschool/no5.comic-viewer/" target="_blank">瀏覽網頁</a><BR>
   ⌞ 【第六週 - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第七週 - Canvas Game】<a href=" http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">瀏覽網頁</a><BR>
+  ⌞ 【第七週 - Canvas Game】<a href="http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">瀏覽網頁</a><BR>
   
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
 - 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">觀光網頁</a><BR>
