@@ -82,6 +82,10 @@
   ⌞ 【第五週 - Comic Viewer】<a href="http://www.kchkd.com/hexschool/no5.comic-viewer/" target="_blank">瀏覽網頁</a><BR>
   ⌞ 【第六週 - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">瀏覽網頁</a><BR>
   ⌞ 【第七週 - Canvas Game】<a href="http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">瀏覽網頁</a><BR>
+  ⌞ 【第八週 - parallax scrolling】<a href="http://www.kchkd.com/hexschool/no8.parallax-scrolling/" target="_blank">瀏覽網頁</a><BR>
+  ⌞ 【第九週 - Skill Tree】<a href="http://www.kchkd.com/hexschool/no9.skill-tree/" target="_blank">瀏覽網頁</a><BR>
+- The F2E 完賽證明<br>
+  <a href="https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D" target="_blank">https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D</a>
   
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
 - 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">觀光網頁</a><BR>
