@@ -2,7 +2,8 @@
 
 * Name： 陳章瑋 ( Chan Cheung Wai Ken )
 * job location： Taiwan / Hong Kong
-* 科系： Ming Chuan University (Taiwan) Department of Digital Media Design bachelor degree  (master student Expected 2019/08 graduation)
+* Major： Ming Chuan University (Taiwan) Department of Digital Media Design bachelor degree <br>
+  (master student Expected 2019/08 graduation)
 * My website： http://kchkd.com
 * email： kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
