@@ -10,23 +10,23 @@
 ## Work experience / Personal experience
 ### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
-* Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">show</a><br>
+* Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">Browse</a><br>
   Check the user input data and E-mail format is correct<br>
   Join reCAPTCHA v2 verification to prevent abuse by web bots or automated programs<br>
   The form transfers data to the backend in Json format Ajax POST,<br>
   After the customer sends it, save it to the database before sending the E-mail notice<br>
-* Doll House168 Scoring system and Questioning system,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">show</a><br>
+* Doll House168 Scoring system and Questioning system,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">Browse</a><br>
   Increase scoring system and questioning system (have background function)<br>
   Only member can ask and score, the account name the first word and the other words for the stars<br>
   Ask and answer the background administrator to reply to the question and send an E-mail to notify the member to attach the answer and   link.<br>
   Rating background administrators can quickly review ratings<br>
-* WIPER FINDER Page product options,<a href="http://us.wiperfindersystem.com/ " target="_blank">show</a><br>
+* WIPER FINDER Page product options,<a href="http://us.wiperfindersystem.com/ " target="_blank">Browse</a><br>
   首頁產品選項製作切板及功能(含js)<br>
   In the meantime, I helped organize over 15,000 papers.<br>
   SEARCH >>>> css Animation<br>
   
 
-### ANSON TOOLS HOLDINGS LIMITED (Hong Kong) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
+### ANSON TOOLS HOLDINGS LIMITED (Hong Kong) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">Browse</a>
 * Make a new website for ansontools 
 * Development of web backstage (add, modify, delete product information), so that staff can easy to modify
 * Create website database (SQL)
@@ -74,19 +74,19 @@
 * Flash Adobe ActionScript，會製作 Flash 遊戲 / 廣告 / 網頁 
 * Unity 製作遊戲 ( 射擊、反應 )
 
-## 作品集
+## Portfolio
   
-### The F2E - 前端修練精神時光屋 <a href="https://github.com/hexschool/TheF2E" target="_blank">瀏覽網頁</a><BR>
-- 前端修練精神時光屋功能頁 <a href="http://www.kchkd.com/hexschool/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第一週 - todolist】<a href="http://www.kchkd.com/hexschool/no1.todolist/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第二週 - filter】  <a href="http://www.kchkd.com/hexschool/no2.filter/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第三週 - admin order】<a href="http://www.kchkd.com/hexschool/no3.adminorder/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第四週 - Product Gallery】<a href="http://www.kchkd.com/hexschool/no4.product-gallery/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第五週 - Comic Viewer】<a href="http://www.kchkd.com/hexschool/no5.comic-viewer/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第六週 - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第七週 - Canvas Game】<a href="http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第八週 - parallax scrolling】<a href="http://www.kchkd.com/hexschool/no8.parallax-scrolling/" target="_blank">瀏覽網頁</a><BR>
-  ⌞ 【第九週 - Skill Tree】<a href="http://www.kchkd.com/hexschool/no9.skill-tree/" target="_blank">瀏覽網頁</a><BR>
+### The F2E <a href="https://github.com/hexschool/TheF2E" target="_blank">Browse</a><BR>
+- The F2E Function page <a href="http://www.kchkd.com/hexschool/" target="_blank">Browse</a><BR>
+  ⌞ 【1 week - todolist】<a href="http://www.kchkd.com/hexschool/no1.todolist/" target="_blank">Browse</a><BR>
+  ⌞ 【2 week - filter】  <a href="http://www.kchkd.com/hexschool/no2.filter/" target="_blank">Browse</a><BR>
+  ⌞ 【3 week - admin order】<a href="http://www.kchkd.com/hexschool/no3.adminorder/" target="_blank">Browse</a><BR>
+  ⌞ 【4 week - Product Gallery】<a href="http://www.kchkd.com/hexschool/no4.product-gallery/" target="_blank">Browse</a><BR>
+  ⌞ 【5 week - Comic Viewer】<a href="http://www.kchkd.com/hexschool/no5.comic-viewer/" target="_blank">Browse</a><BR>
+  ⌞ 【6 week - validation】<a href="http://www.kchkd.com/hexschool/no6.validation/" target="_blank">Browse</a><BR>
+  ⌞ 【7 week - Canvas Game】<a href="http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">Browse</a><BR>
+  ⌞ 【8 week - parallax scrolling】<a href="http://www.kchkd.com/hexschool/no8.parallax-scrolling/" target="_blank">Browse</a><BR>
+  ⌞ 【9 week - Skill Tree】<a href="http://www.kchkd.com/hexschool/no9.skill-tree/" target="_blank">Browse</a><BR>
 - The F2E 完賽證明<br>
   <a href="https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D" target="_blank">https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D</a>
   
