@@ -9,7 +9,7 @@
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## Work experience / Personal experience
 ### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
-* Auxiliary front-end and back-end engineers work, such as the construction of a database, the final check of the web page, the cutting board, and so on.
+* Auxiliary front-end and back-end engineers work, such as the construction of a database, the final check of the web page, create(build) website layout, and so on.
 * Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">Browse</a><br>
   Check the user input data and E-mail format is correct<br>
   Join reCAPTCHA v2 verification to prevent abuse by web bots or automated programs<br>
