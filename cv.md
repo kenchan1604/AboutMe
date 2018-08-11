@@ -9,7 +9,7 @@
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## Work experience / Personal experience
 ### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
-* 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
+* Auxiliary front-end and back-end engineers work, such as the construction of a database, the final check of the web page, the cutting board, and so on.
 * Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">Browse</a><br>
   Check the user input data and E-mail format is correct<br>
   Join reCAPTCHA v2 verification to prevent abuse by web bots or automated programs<br>
@@ -21,7 +21,7 @@
   Ask and answer the background administrator to reply to the question and send an E-mail to notify the member to attach the answer and   link.<br>
   Rating background administrators can quickly review ratings<br>
 * WIPER FINDER Page product options,<a href="http://us.wiperfindersystem.com/ " target="_blank">Browse</a><br>
-  首頁產品選項製作切板及功能(含js)<br>
+  Home product options to make cutting boards and features.
   In the meantime, I helped organize over 15,000 papers.<br>
   SEARCH >>>> css Animation<br>
   
@@ -55,24 +55,22 @@
 ## Skills
 
 ### Front end：
-* 熟悉 HTML5 + CSS 完成 RWD 頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
-* Javascript 基本語法( VanillaJS )，不論是在函式設計 、 事件監聽指令、 文字提示 、 資料驗證 、 API 操作 、 DOM 元素 、 版型調整都有到不錯的水準，並能使用 jQuery / CSS3 呈現網頁動態效果
-* 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
-* 介接第三方 API 設計 ( Google Map、Open Data 、 Facebook API 等等 ) 
-* 會使用CSS Sprites 減少載入圖片載入次數 及 外部載入 js css Minifier 加快網頁讀取速度
-* 對於JavaScript框架 AngularJS , Vue.js 有基本認知
-* 對於 SASS、SCSS 有基本認知
+* Familiar with HTML5 + CSS to complete RWD page structure and layout; and can customize RWD without relying on Framework, develop website configuration that meets the size of each device.
+* Javascript ( VanillaJS )，And can use jQuery / CSS3 to render web page dynamics.
+* Use AJAX to retrieve remote JSON data and display it on web pages, AJAX data POST, GET usage
+* API ( Google Map、Open Data 、 Facebook API ....) 
+* CSS Sprites Reduce loaded image loads time 及  js css Minifier Speed up reading web page 
+* Basic JavaScript framework (AngularJS , Vue.js)
+* Basic SASS and SCSS
 ### Back end：
-* 利用 PHP 編寫前後台網功能
+* Write front and back network functions with PHP
 * MYSQL
 ### Other：
-* 版本控制:<br>
-  本地端版本控制-( 複製檔案到其它目錄的方式來做版本控制 ) <br>
-  分散式版本控制系統- Git <br>
-* Photoshop、Illustrator 基本工具操作
-* Adobe After Effect 影片基本處理
-* Flash Adobe ActionScript，會製作 Flash 遊戲 / 廣告 / 網頁 
-* Unity 製作遊戲 ( 射擊、反應 )
+* Git
+* Photoshop、Illustrator Basic tool operation
+* Adobe After Effect Basic processing of the film
+* Flash Adobe ActionScript，Flash game / ad / webpage
+* Unity Making games ( Shooting, reaction )
 
 ## Portfolio
   
@@ -87,50 +85,47 @@
   ⌞ 【7 week - Canvas Game】<a href="http://www.kchkd.com/hexschool/no7.canvas-game/" target="_blank">Browse</a><BR>
   ⌞ 【8 week - parallax scrolling】<a href="http://www.kchkd.com/hexschool/no8.parallax-scrolling/" target="_blank">Browse</a><BR>
   ⌞ 【9 week - Skill Tree】<a href="http://www.kchkd.com/hexschool/no9.skill-tree/" target="_blank">Browse</a><BR>
-- The F2E 完賽證明<br>
+- The F2E Proof of completion<br>
   <a href="https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D" target="_blank">https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D</a>
   
-### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
-- 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">show</a><BR>
-  ⌞ 增加管理後台,方便工作人員增加新遊戲及關卡<BR>
-  ⌞ 增加查看通關密碼指令(可修改)<BR>
-  ⌞ SQL 資料以 JSON 格式輸出,前台以 AJAX 讀取資料<BR>
+### Live tour interactive webpage
+- The village of Xianguang Second Village opened the box of Xianguang Pandora-Game Center Edition &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">Browse</a><BR>
+  ⌞ Increase management background to facilitate staff to add new games and levels<BR>
+  ⌞ Increase the view password password command (can be modified)<BR>
+  ⌞ SQL data is output in JSON format, and the foreground reads data in AJAX.<BR>
  
-- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">show</a><BR>
-  ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。<BR>
-  ⌞ 使用者介面改良及增加接近答案提示<BR>
-  ⌞ 一頁式顯示及増加答案顯示功能<BR>
-  ⌞ 縮減整體檔案大小(不含圖片)至 32 % ：128 KB -> 100 KB <BR>
+- The village of Xianguang Second Village opened the box of Xianguang Pandora-Spring Festival Edition &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">Browse</a><BR>
+  ⌞ Rewritten into a Single Page Application, the user experience is good and fast, the content changes do not need to reload the entire page, and reduce the pressure on the server.<BR>
+  ⌞ User interface improvements and increased proximity answers<BR>
+  ⌞ One-page display and add answer display function<BR>
+  ⌞ Reduce the overall file size (without images) to 32 % ：128 KB -> 100 KB <BR>
  
-- 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">show</a><BR>
-  ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
-  ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
-  ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
-  ⌞ 課堂活動高中生試玩後大受好評有助認識憲光二村，老師也認為這種參加方法十分有趣創新。<br>
+- The village of Xianguang Second Village opened the box of Xianguang Pandora &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">show</a><BR>
+  ⌞ Create interactive game pages with the resident station of Xianguang Second Village and Mingchuan Tourism Innovation Lab<BR>
+  ⌞ Create interactive games with QR code and JavaScript<BR>
+  ⌞ Visitors can use their mobile phones to play games and learn about the village of Xianguang.<BR>
+  ⌞ After the high school students in the classroom activities, they were greatly praised and helped to understand the village of Xianguang. The teacher also thought that this method of participation was very interesting and innovative.<br>
   
-### 在學作品
-- 憲光二村介紹 &nbsp; <a href="http://kchkd.com/sianguang2ndvillage" target="_blank">個人作品</a><BR>
-  ⌞ RWD 練習<BR>
+### Studying works
+- Introduction to Xianguang Second Village &nbsp; <a href="http://kchkd.com/sianguang2ndvillage" target="_blank">Browse</a><BR>
+  ⌞ RWD practice<BR>
   
-- HTML5 打磚塊 &nbsp; <a href="http://kchkd.com/html5game" target="_blank">小遊戲</a><BR>
-  ⌞ JavaScript 編寫 遊戲<BR>
+- HTML5 Arkanoid Game &nbsp; <a href="http://kchkd.com/html5game" target="_blank">Browse</a><BR>
+  ⌞ JavaScript game<BR>
 
-- 畢業作品 &nbsp; <a href="http://kchkd.com/TheDream" target="_blank"> 夢蝶 The Dream </a><BR>
-  ⌞ 利用 Unity 製作 多媒體互動動畫<BR>
-  ⌞ 不同的選擇，結局會因此不同<BR>
+- Graduation works &nbsp; <a href="http://kchkd.com/TheDream" target="_blank">Browse The Dream </a><BR>
+  ⌞ Making Multimedia interactive animation by Unity <BR>
+  ⌞ Different choices, the ending will be different<BR>
+
   
-- 聊天室 &nbsp; <a href="http://kchkd.com/chatroom" target="_blank">聊天室</a><BR>
-  ⌞ 利用 PHP 製作聊天室<BR>
-  ⌞ 擁有加入離開提示，超過 20 筆會自動轉成 .txt 檔案，自動刪除資料庫數據
-  
-### 個人練習
-- 六角學院 BMI  <a href="http://kchkd.com/bmi/2.0" target="_blank">BMI網頁</a><BR>
-  ⌞ 輸入身高及體重後，顯示BMI數值及健康狀況（過輕、理想、過重、輕度肥胖、中度肥胖、過度肥胖）<BR>
-  ⌞ 採用 LocalStorage 儲存查詢歷史資料。<BR>
-  ⌞ 根據 BMI 結果會有不同顏色<br>
-  ⌞ 檢查使用者是否正確輸入資料<br>
-- 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
-  ⌞ AJAX 高雄市政府資料開放 網頁資料
+### Personal Practice
+- Hexschool BMI  <a href="http://kchkd.com/bmi/2.0" target="_blank">BMI Browse</a><BR>
+  ⌞ After entering the height and weight, the BMI value and health status.(too light, ideal, overweight, mild obesity, moderate obesity, obesity.7)<BR>
+  ⌞ Use LocalStorage to store query history data.<BR>
+  ⌞ There will be different colors depending on the BMI result.<br>
+  ⌞ Check  the user entered the data correctly.<br>
+- Hexschool  Kaohsiung tourist attractions.  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">Browse</a><BR>
+  ⌞ AJAX Kaohsiung City Government Information Open data .
 
 
 
