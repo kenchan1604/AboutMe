@@ -8,51 +8,53 @@
 * email： kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## Work experience / Personal experience
-### 森德網站設計有限公司 Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
+### 森德網站設計有限公司 (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
-* 公司聯絡表單,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">show</a><br>
-  檢查使用者是否輸入資料及 E-mail 格式是否正確<br>
-  加入 reCAPTCHA v2 驗証,防止網路機器人或是自動化程式濫用<br>
-  表單以 Json 格式 Ajax POST 傳送資料到後端,<br>
-  顧客發送後,先儲存到資料庫後再發送 E-mail 通知單<br>
-* Doll House168 評分系統和問問題系統,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">show</a><br>
-  增加評分系統和問問題系統(含後台功能)<br>
-  檢査是否會員才能發問及評分,帳號保留第一個字其他字換星星<br>
-  問與答後台管理員回覆問題後發送E-mail通知會員附上回答及連結<br>
-  評分後台管理員可快速審核評分<br>
-* WIPER FINDER 頁產品選項,<a href="http://us.wiperfindersystem.com/ " target="_blank">show</a><br>
+* Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">show</a><br>
+  Check the user input data and E-mail format is correct<br>
+  Join reCAPTCHA v2 verification to prevent abuse by web bots or automated programs<br>
+  The form transfers data to the backend in Json format Ajax POST,<br>
+  After the customer sends it, save it to the database before sending the E-mail notice<br>
+* Doll House168 Scoring system and Questioning system,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">show</a><br>
+  Increase scoring system and questioning system (have background function)<br>
+  Only member can ask and score, the account name the first word and the other words for the stars<br>
+  Ask and answer the background administrator to reply to the question and send an E-mail to notify the member to attach the answer and   link.<br>
+  Rating background administrators can quickly review ratings<br>
+* WIPER FINDER Page product options,<a href="http://us.wiperfindersystem.com/ " target="_blank">show</a><br>
   首頁產品選項製作切板及功能(含js)<br>
-  當中栛助整理過一萬五筆的資料<br>
-  SEARCH >>>> css 動畫<br>
+  In the meantime, I helped organize over 15,000 papers.<br>
+  SEARCH >>>> css Animation<br>
   
 
-### 安順工具控股有限公司 (香港) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
-* 開發網站管理員後台(新增、修改、刪除產品資料)，令普通員工修改
-* 建立網站資料庫( SQL )
-* 製作檔案上傳頁面
-*  *2017 年每頁利用 HTML 編寫並於 2018 年改為 PHP 編寫
+### 安順工具控股有限公司 (Hong Kong) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
+* Make a new website for ansontools 
+* Development of web backstage (add, modify, delete product information), so that staff can easy to modify
+* Create website database (SQL)
+* Create a file upload page
+*  *Each page in 2017 is written in HTML and written in PHP in 2018
 
-### 世紀文化有限公司 (香港)( 2017 / 01 - 2017 / 02 )
-* 獨自編寫公司新版網頁，並不倚賴 CSS Framework 進行 RWD 客製化
-* 使用第三方套件製作套用燈箱與輪播效果
-* 加入 Google Analytics 分析顧客習慣
-* 加入 Google Map 方便顧客到訪公司
-* 加入 PayPal 購物車功能
-  
-### 家庭之友有限公司  (香港)  - 助理( 2014 / 08 - 2016 / 08 )
-* 公司網頁獨自開發
+### 世紀文化有限公司 (Hong Kong)( 2017 / 01 - 2017 / 02 )
+* Make a new website for century culture ltd
+* Writing a new version of the company's web site alone does not rely on the CSS Framework for RWD customization
+* Make a Light Box and Carousel Effect
+* Add Google Analytics 
+* Add Google Map API ,Customer easy to visit the company
+* Add PayPal shopping cart button
 
-###  IMAZ Agency LTD  (香港)  - 銷售員及私人助理(2012 / 07 - 2013 / 07 )
-* 網頁更新資料
-* 搜尋引擎最佳化 SEO <br>
-  3 個月後 Google 搜尋條資從 5 , 990 項増至 39 , 800 項 <br>
-  關鍵字都提升至第三名
-* Yahoo!Blog 新浪粉絲頁 Facebook 專頁 管理 及 構思活動集人氣
-* Wiki 更新
+### 家庭之友有限公司  (Hong Kong)  - assistant ( 2014 / 08 - 2016 / 08 )
+* Company website developed alone
 
-## 專業技能
+###  IMAZ Agency LTD (Hong Kong) - Sales (part time)/Personal assistant (2012 / 07 - 2013 / 07 )
+* Web update
+* Search Optimization (SEO)
+  Google search terms increased from 5,990 to 39,800 in 3 months.<br>
+  The 3 keywords at Google search to three.
+* Yahoo! Blog and Sina Fanpage and Facebook Fanpage management
+* Wiki update
 
-### 前端：
+## Skills
+
+### Front end：
 * 熟悉 HTML5 + CSS 完成 RWD 頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
 * Javascript 基本語法( VanillaJS )，不論是在函式設計 、 事件監聽指令、 文字提示 、 資料驗證 、 API 操作 、 DOM 元素 、 版型調整都有到不錯的水準，並能使用 jQuery / CSS3 呈現網頁動態效果
 * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上， AJAX 資料 POST 、 GET 用法
@@ -60,10 +62,10 @@
 * 會使用CSS Sprites 減少載入圖片載入次數 及 外部載入 js css Minifier 加快網頁讀取速度
 * 對於JavaScript框架 AngularJS , Vue.js 有基本認知
 * 對於 SASS、SCSS 有基本認知
-### 後端：
+### Back end：
 * 利用 PHP 編寫前後台網功能
 * MYSQL
-### 其他：
+### Other：
 * 版本控制:<br>
   本地端版本控制-( 複製檔案到其它目錄的方式來做版本控制 ) <br>
   分散式版本控制系統- Git <br>
