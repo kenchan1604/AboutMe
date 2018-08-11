@@ -1,6 +1,6 @@
-# 陳章瑋 ( CHAN-CHEUNG WAI ) 
+#  CHAN-CHEUNG WAI 
 
-* Name： 陳章瑋 ( Chan Cheung Wai Ken )
+* Name： Chan Cheung Wai ( Ken )
 * job location： Taiwan / Hong Kong
 * Major： Ming Chuan University (Taiwan) Department of Digital Media Design bachelor degree <br>
   (master student Expected 2019/08 graduation)
@@ -8,7 +8,7 @@
 * email： kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## Work experience / Personal experience
-### 森德網站設計有限公司 (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
+### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
 * Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">show</a><br>
   Check the user input data and E-mail format is correct<br>
@@ -26,14 +26,14 @@
   SEARCH >>>> css Animation<br>
   
 
-### 安順工具控股有限公司 (Hong Kong) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
+### ANSON TOOLS HOLDINGS LIMITED (Hong Kong) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
 * Make a new website for ansontools 
 * Development of web backstage (add, modify, delete product information), so that staff can easy to modify
 * Create website database (SQL)
 * Create a file upload page
 *  *Each page in 2017 is written in HTML and written in PHP in 2018
 
-### 世紀文化有限公司 (Hong Kong)( 2017 / 01 - 2017 / 02 )
+### Century Culture Limited (Hong Kong)( 2017 / 01 - 2017 / 02 )
 * Make a new website for century culture ltd
 * Writing a new version of the company's web site alone does not rely on the CSS Framework for RWD customization
 * Make a Light Box and Carousel Effect
@@ -41,7 +41,7 @@
 * Add Google Map API ,Customer easy to visit the company
 * Add PayPal shopping cart button
 
-### 家庭之友有限公司  (Hong Kong)  - assistant ( 2014 / 08 - 2016 / 08 )
+### Family Friendship Limited (Hong Kong)  - assistant ( 2014 / 08 - 2016 / 08 )
 * Company website developed alone
 
 ###  IMAZ Agency LTD (Hong Kong) - Sales (part time)/Personal assistant (2012 / 07 - 2013 / 07 )
