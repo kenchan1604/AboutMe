@@ -8,25 +8,25 @@
 * email： kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 ## Work experience / Personal experience
-### 森德網站設計有限公司 網站程式前端設計師( 實習生 )  ( 2018 / 03 - 2018 / 06 ) 
+### 森德網站設計有限公司 Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * 輔助前端和後端工程師工作,例如資料庫的増建,網頁最後驗收檢查,切板等等。
-* 公司聯絡表單,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">網站演示</a><br>
+* 公司聯絡表單,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">show</a><br>
   檢查使用者是否輸入資料及 E-mail 格式是否正確<br>
   加入 reCAPTCHA v2 驗証,防止網路機器人或是自動化程式濫用<br>
   表單以 Json 格式 Ajax POST 傳送資料到後端,<br>
   顧客發送後,先儲存到資料庫後再發送 E-mail 通知單<br>
-* Doll House168 評分系統和問問題系統,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">網站演示</a><br>
+* Doll House168 評分系統和問問題系統,<a href="http://www.isex.tw/product_in.php?id=91" target="_blank">show</a><br>
   增加評分系統和問問題系統(含後台功能)<br>
   檢査是否會員才能發問及評分,帳號保留第一個字其他字換星星<br>
   問與答後台管理員回覆問題後發送E-mail通知會員附上回答及連結<br>
   評分後台管理員可快速審核評分<br>
-* WIPER FINDER 頁產品選項,<a href="http://us.wiperfindersystem.com/ " target="_blank">網站演示</a><br>
+* WIPER FINDER 頁產品選項,<a href="http://us.wiperfindersystem.com/ " target="_blank">show</a><br>
   首頁產品選項製作切板及功能(含js)<br>
   當中栛助整理過一萬五筆的資料<br>
   SEARCH >>>> css 動畫<br>
   
 
-### 安順工具控股有限公司 (香港) - 兼職網頁更新員( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">網站演示</a>
+### 安順工具控股有限公司 (香港) - Part-time web updater ( 2017 / 07 - 2018 / 02 )<a href="http://kchkd.com/anson/php" target="_blank">show</a>
 * 開發網站管理員後台(新增、修改、刪除產品資料)，令普通員工修改
 * 建立網站資料庫( SQL )
 * 製作檔案上傳頁面
@@ -89,18 +89,18 @@
   <a href="https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D" target="_blank">https://www.thef2e.com/Certificate/-LDy0z8YFUrHzY2zEy9D</a>
   
 ### 現場觀光互動網頁(桃園眷村文化資產教案推廣計畫-已結案)
-- 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">觀光網頁</a><BR>
+- 憲光二村開啟憲光潘朵拉的盒子-遊戲中心版 &nbsp; <a href="http://www.kchkd.com/s2/gamecenter/index.php?version=s1" target="_blank">show</a><BR>
   ⌞ 增加管理後台,方便工作人員增加新遊戲及關卡<BR>
   ⌞ 增加查看通關密碼指令(可修改)<BR>
   ⌞ SQL 資料以 JSON 格式輸出,前台以 AJAX 讀取資料<BR>
  
-- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">觀光網頁</a><BR>
+- 憲光二村開啟憲光潘朵拉的盒子-迎春版 &nbsp; <a href="http://kchkd.com/s2/game2/" target="_blank">show</a><BR>
   ⌞ 改寫成 Single Page Application (單頁應用),另用戶體驗好、快，內容的改變不需要重新加載整個頁面,並減小對服務器壓力。<BR>
   ⌞ 使用者介面改良及增加接近答案提示<BR>
   ⌞ 一頁式顯示及増加答案顯示功能<BR>
   ⌞ 縮減整體檔案大小(不含圖片)至 32 % ：128 KB -> 100 KB <BR>
  
-- 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">觀光網頁</a><BR>
+- 憲光二村開啟憲光潘朵拉的盒子 &nbsp; <a href="http://kchkd.com/s2/game/" target="_blank">show</a><BR>
   ⌞ 與憲光二村駐地工作站及銘傳旅遊創新實驗社製作互動遊戲網頁<BR>
   ⌞ 結合 QR code 和 JavaScript 製作互動遊戲<BR>
   ⌞ 遊客可以利用手機進行遊戲，從中認識憲光二村<BR>
@@ -129,13 +129,6 @@
   ⌞ 檢查使用者是否正確輸入資料<br>
 - 六角學院 高雄旅遊景點  <a href="http://www.kchkd.com/kaohsiung-travel/" target="_blank">旅遊網頁</a><BR>
   ⌞ AJAX 高雄市政府資料開放 網頁資料
-  
-## 自我介紹
-* 本人在中學時期熱愛參興義務工作服務社會，如每次的賣旗和賣獎卷的成績都不俗，都能得到師長的讚許。也多次為長者服務，如探訪老人院為他們作表演。曾擔當健康互聯網大使為不懂電腦的家長和長者上課。我對網頁多媒體深感興趣，透過自學並開設個人網站 ( 驚青論壇 ) ，我與多間香港遊戲公司 ( 摩卡、 Csoft 、遊戲新幹線、科瀚國際網絡遊戲 ) 合作經驗，所以大家可以在一些大型的遊戲公司內搜找得到驚青論壇。<BR>
-  我在多媒體的能力深受老師和同學的肯定和信任，在中學謝師宴獨力負責製作回顧影片( <a href="https://www.youtube.com/watch?v=s2vmSVf-qKo" target="_blank">作品連結</a> )。我在大學期間曾為一間出版社和一間公司製作網站，在 2016 年畢業於台灣銘傳大學數位媒體設計學系，畢業作品名為 「 夢蝶 The Dream 」 - 是互動式動畫，每個人有不同的選擇，結局會因此不同，每個人都有徘徊、猶豫、看不清現實的時候，我們創造了夢蝶這個故事，藉由夢境與現實的交錯，讓觀眾選擇自己想要的故事走向和結局 ( <a href="https://www.youtube.com/watch?v=_2Ul-t7tng4" target="_blank">作品連結</a> ) 。<BR>
-  現時本人所製作的網站( HTML5 )完全支援手機平板電腦，深具網頁和多媒體方面的知識。<BR>
-我深信 「 人而無信，不知其可也 」 所以在日常生活中，不管對誰我都秉持著 「 遵守約定 」 及 「 不遲到 」 的原則，也因此贏得許多朋友的信賴。因為我明白人與人之間的信賴感是需要花時間構築的，而失去只是一瞬間的事。對於工作方面，我認為凡事全力以赴、樂於成就他人，必能得到別人的信任。<BR>
-
 
 
 
