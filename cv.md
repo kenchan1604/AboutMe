@@ -4,7 +4,7 @@
 * job location： Taiwan / Hong Kong
 * Major： Ming Chuan University (Taiwan) Department of Digital Media Design bachelor degree <br>
 * My website： http://kchkd.com
-* email： kchkd@hotmail.com
+* email： kenchan1993@gmail.com / kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
 
 ## Education
