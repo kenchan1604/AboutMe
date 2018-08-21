@@ -3,10 +3,15 @@
 * Name： Chan Cheung Wai ( Ken )
 * job location： Taiwan / Hong Kong
 * Major： Ming Chuan University (Taiwan) Department of Digital Media Design bachelor degree <br>
-  (master student Expected 2019/08 graduation)
 * My website： http://kchkd.com
 * email： kchkd@hotmail.com
 * Phone： ( +886 ) 0928403742 / ( +852 ) 67029832
+
+## Education
+
+### 2019 ( Expected ) Master of Department of Digital Media Design,Ming Chuan University (Taiwan)   (master student Expected 2019/08 graduation)
+### 2016 Bachelor of Department of Digital Media Design,Ming Chuan University (Taiwan)
+
 ## Work experience / Personal experience
 ### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * Auxiliary front-end and back-end engineers work, such as the construction of a database, the final check of the web page, create(build) website layout, and so on.
