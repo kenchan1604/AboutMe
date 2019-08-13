@@ -9,10 +9,13 @@
 
 ## Education
 
-### 2019 ( Expected ) Master of Department of Digital Media Design,Ming Chuan University (Taiwan)   (master student Expected 2019/08 graduation)
+### 2019 Master of Department of Digital Media Design,Ming Chuan University (Taiwan)
 ### 2016 Bachelor of Department of Digital Media Design,Ming Chuan University (Taiwan)
 
 ## Work experience / Personal experience
+### Fujitsu Hong Kong Limited Programmer ( 2018 / 09 - Now )
+* Change according to customer needs
+
 ### Forest Web Design (Taiwan)  Front-end designer( intern )  ( 2018 / 03 - 2018 / 06 ) 
 * Auxiliary front-end and back-end engineers work, such as the construction of a database, the final check of the web page, create(build) website layout, and so on.
 * Company Contact Form,<a href="https://www.forestwebs.com.tw/contact.php" target="_blank">Browse</a><br>
@@ -69,14 +72,15 @@
 * Basic SASS and SCSS
 ### Back end：
 * Write front and back network functions with PHP
+*	C# ASAP
 * MYSQL
 ### Other：
-* Git
+* Git (Bitbucket, github, gitlab)
 * Photoshop、Illustrator Basic tool operation
 * Adobe After Effect Basic processing of the film
 * Flash Adobe ActionScript，Flash game / ad / webpage
 * Unity Making games ( Shooting, reaction )
-
+*	C# windows form and console program
 ## Portfolio
   
 ### The F2E <a href="https://github.com/hexschool/TheF2E" target="_blank">Browse</a><BR>
